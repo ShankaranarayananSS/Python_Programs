@@ -1,0 +1,12 @@
+Types of Looping Statement in Python:
+  for Loop
+  while Loop
+
+Entry Check Loops  : for, while
+
+Use cases:
+  For loop is used when number of iterations is known.
+  While loop is used when number of iterations is not known, only depends on the condition.
+
+Note:
+  Python does not support do while loop.

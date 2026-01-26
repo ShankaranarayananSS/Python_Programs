@@ -3,6 +3,7 @@ num2 = int(input("Enter number-2:"))
 
 print(num1,"\t&\t",num2,"\t=\t",num1&num2)
 print(num1,"\t|\t",num2,"\t=\t",num1|num2)
+print(num1,"\t^\t",num2,"\t=\t",num1^num2)
 print("~",num1,"\t=\t",~num1)
 print("~",num2,"\t=\t",~num2)
 print(num1,">>1\t=\t",num1>>1)

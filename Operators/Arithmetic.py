@@ -1,0 +1,10 @@
+n1 = float(input("Enter number-1:"))
+n2 = float(input("Enter number-2:"))
+
+print(f"{n1:.2f} + {n2:.2f} = {n1+n2:.2f}")
+print(f"{n1:.2f} - {n2:.2f} = {n1-n2:.2f}")
+print(f"{n1:.2f} * {n2:.2f} = {n1*n2:.2f}")
+print(f"{n1:.2f} / {n2:.2f} = {n1/n2:.2f}")
+print(f"{n1:.2f} // {n2:.2f} = {n1//n2:.2f}")
+print(f"{n1:.2f} % {n2:.2f} = {n1%n2:.2f}")
+print(f"{n1:.2f} ** {n2:.2f} = {n1**n2:.2f}")
